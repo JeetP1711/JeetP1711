@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Front-End Development**
 
-- 📫 How to reach me **jeetspatel171104.com**
+- 📫 How to reach me **jeetspatel171104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
