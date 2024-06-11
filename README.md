@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeetp1711&show_icons=true&locale=en&layout=compact" alt="jeetp1711" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetp1711&show_icons=true&locale=en" alt="jeetp1711" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetp1711&" alt="jeetp1711" /></p>
